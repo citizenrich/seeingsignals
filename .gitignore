@@ -1,5 +1,5 @@
 # mac
-.DS_Store
+*.DS_Store
 
 # local old and wip versions
 wip
